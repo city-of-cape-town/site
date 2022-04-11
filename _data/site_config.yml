@@ -20,8 +20,8 @@ breadcrumbs:
       label: menu.updates
 contrast_type: default
 country:
-  name: Australia
-  adjective: Australian
+  name: City of Cape Town
+  adjective: Capetonian
 create_goals:
   layout: goal-by-target-vertical
   previous_next_links: false
