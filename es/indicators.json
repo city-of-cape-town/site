@@ -2110,20 +2110,4 @@
           "status": "notstarted"
         }]
     }
-  },
-  {
-    "goal": {
-      "id": "Indicator_9",
-      "title": "global_goals.Indicator_9-title",
-      "indicators": [
-        
-        {
-          "id": "Indicator_9-c-1",
-          "title": "global_indicators.Indicator_9-c-1-title",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/Indicator_9-c-1",
-          "status": "complete"
-        }]
-    }
   }]
