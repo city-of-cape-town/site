@@ -20,8 +20,8 @@ breadcrumbs:
       label: menu.updates
 contrast_type: default
 country:
-  name: City of Cape Town
-  adjective: Capetonian
+  name: Australia
+  adjective: Australian
 create_goals:
   layout: goal-by-target-vertical
   previous_next_links: false
@@ -100,9 +100,10 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: my-custom-translations.my-goals-grid-title
+  title: Our data for Sustainable Development Goal indicators
   description: >-
-    my-custom-translations.my-goals-grid-description
+    Click on each goal for our Sustainable Development Goal global indicator
+    data.
 frontpage_heading: ''
 frontpage_instructions: ''
 frontpage_introduction_banner:
