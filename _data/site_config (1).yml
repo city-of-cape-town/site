@@ -106,9 +106,9 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: City of Cape Town data for Sustainable Development Goal indicators
+  title: Our data for Sustainable Development Goal indicators
   description: >-
-    Click on each goal for City of Cape Town Sustainable Development Goal global indicator
+    Click on each goal for our Sustainable Development Goal global indicator
     data.
 frontpage_heading: ''
 frontpage_instructions: ''
